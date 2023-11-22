@@ -1,0 +1,1 @@
+﻿Start-Process 'C:\WINDOWS\system32\notepad.exe'
